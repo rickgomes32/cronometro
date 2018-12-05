@@ -27,3 +27,14 @@ body{
     opacity: .75;
     display: inline-block;
 }
+
+#pausa{
+    width: .5em;
+    height: .5em;
+    /* background-color: #fff; */
+    opacity: .75;
+    display: inline-block;
+    box-sizing: border-box;
+    border-right: solid .2em #fff;
+    border-left: solid .2em #fff;
+}
