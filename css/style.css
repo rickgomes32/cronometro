@@ -1,0 +1,29 @@
+body{
+    background-color: #4a148c;
+    color: #fff;
+    font-size: 10em;
+    font-family: sans-serif;
+    text-align: center;
+    opacity: .75;
+}
+
+#inicio{
+    /* margin: 0 auto; */
+    top: 25%;
+    /* position: relative;   */
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: .25em 0 .25em .5em;
+    border-color: transparent transparent transparent #fff;
+    opacity: .75; 
+    display: inline-block;
+}
+
+#para{
+    width: .5em;
+    height: .5em;
+    background-color: #fff;
+    opacity: .75;
+    display: inline-block;
+}
